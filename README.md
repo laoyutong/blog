@@ -1,5 +1,5 @@
 # blog
-A vegetable chicken FEer 's blog
+A vegetable dog FEer 's blog
 
 ## React
-[从自定义Hooks中深入理解useRef](https://github.com/laoyutong/blog/issues/1)
+<a href="https://github.com/laoyutong/blog/issues/1" target="_blank">从自定义Hooks中深入理解useRef</a>
