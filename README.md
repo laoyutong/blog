@@ -10,3 +10,6 @@ A vegetable dog FEer 's blog
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
 
 [TypeScript中回调函数的参数类型](https://github.com/laoyutong/blog/issues/3)
+
+## Rust
+[起步](https://github.com/laoyutong/blog/issues/5)
