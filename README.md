@@ -13,3 +13,5 @@ A vegetable dog FEer 's blog
 
 ## Rust
 [起步](https://github.com/laoyutong/blog/issues/5)
+
+[基本概念](https://github.com/laoyutong/blog/issues/6)
