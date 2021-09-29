@@ -17,3 +17,5 @@ A vegetable dog FEer 's blog
 [基本概念](https://github.com/laoyutong/blog/issues/6)
 
 [所有权](https://github.com/laoyutong/blog/issues/7)
+
+[结构体](https://github.com/laoyutong/blog/issues/8)
