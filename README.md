@@ -19,3 +19,5 @@ A vegetable dog FEer 's blog
 [所有权](https://github.com/laoyutong/blog/issues/7)
 
 [结构体](https://github.com/laoyutong/blog/issues/8)
+
+[枚举和模式匹配](https://github.com/laoyutong/blog/issues/9)
