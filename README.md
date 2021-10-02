@@ -25,3 +25,5 @@ A vegetable dog FEer 's blog
 [模块化](https://github.com/laoyutong/blog/issues/10)
 
 [常见集合](https://github.com/laoyutong/blog/issues/11)
+
+[错误处理](https://github.com/laoyutong/blog/issues/12)
