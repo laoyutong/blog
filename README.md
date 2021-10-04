@@ -29,3 +29,5 @@ A vegetable dog FEer 's blog
 [错误处理](https://github.com/laoyutong/blog/issues/12)
 
 [泛型、trait和生命周期](https://github.com/laoyutong/blog/issues/13)
+
+[函数式语言功能](https://github.com/laoyutong/blog/issues/14)
