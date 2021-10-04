@@ -27,3 +27,5 @@ A vegetable dog FEer 's blog
 [常见集合](https://github.com/laoyutong/blog/issues/11)
 
 [错误处理](https://github.com/laoyutong/blog/issues/12)
+
+[泛型、trait和生命周期](https://github.com/laoyutong/blog/issues/13)
