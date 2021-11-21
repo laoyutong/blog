@@ -1,6 +1,10 @@
 # blog
 A vegetable dog FEer 's blog
 
+## JavaScript
+
+[浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
+
 ## React
 [从自定义Hooks中深入理解useRef](https://github.com/laoyutong/blog/issues/1)
 
