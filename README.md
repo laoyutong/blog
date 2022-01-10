@@ -12,6 +12,8 @@ A vegetable dog FEer 's blog
 
 [React Router v6 浅析](https://github.com/laoyutong/blog/issues/17)
 
+[深入浅出Redux](https://github.com/laoyutong/blog/issues/18)
+
 ## TypeScript
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
 
