@@ -19,6 +19,8 @@ A vegetable dog FEer 's blog
 
 [TypeScript中回调函数的参数类型](https://github.com/laoyutong/blog/issues/3)
 
+[TypeScript 4.6 Beta更新](https://github.com/laoyutong/blog/issues/19)
+
 ## Tool
 
 [github actions配置静态页面部署](https://github.com/laoyutong/blog/issues/16)
