@@ -24,3 +24,5 @@ A vegetable dog FEer 's blog
 ## Tool
 
 [github actions配置静态页面部署](https://github.com/laoyutong/blog/issues/16)
+
+[配置git commit格式校验](https://github.com/laoyutong/blog/issues/20)
