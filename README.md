@@ -14,6 +14,8 @@ A vegetable dog FEer 's blog
 
 [深入浅出Redux](https://github.com/laoyutong/blog/issues/18)
 
+[schedule调度浅析](https://github.com/laoyutong/blog/issues/21)
+
 ## TypeScript
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
 
