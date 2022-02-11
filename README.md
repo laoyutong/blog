@@ -23,6 +23,8 @@ A vegetable dog FEer 's blog
 
 [TypeScript 4.6 Beta更新](https://github.com/laoyutong/blog/issues/19)
 
+[TypeScript工具类型](https://github.com/laoyutong/blog/issues/22)
+
 ## Tool
 
 [github actions配置静态页面部署](https://github.com/laoyutong/blog/issues/16)
