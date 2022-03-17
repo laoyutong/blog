@@ -37,4 +37,4 @@ A vegetable dog FEer 's blog
 
 ## Rollup
 
-[核心功能配置]((https://github.com/laoyutong/blog/issues/24)
+[核心功能配置](https://github.com/laoyutong/blog/issues/24)
