@@ -38,3 +38,7 @@ A vegetable dog FEer 's blog
 ## Rollup
 
 [核心功能配置](https://github.com/laoyutong/blog/issues/24)
+
+## Pnpm
+
+[pnpm workspace](https://github.com/laoyutong/blog/issues/25)
