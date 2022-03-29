@@ -39,6 +39,8 @@ A vegetable dog FEer 's blog
 
 [核心功能配置](https://github.com/laoyutong/blog/issues/24)
 
+[插件浅析](https://github.com/laoyutong/blog/issues/26)
+
 ## Pnpm
 
 [pnpm workspace](https://github.com/laoyutong/blog/issues/25)
