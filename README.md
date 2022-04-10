@@ -35,6 +35,8 @@ A vegetable dog FEer 's blog
 
 [Vite实战小结](https://github.com/laoyutong/blog/issues/23)
 
+[拆包策略](https://github.com/laoyutong/blog/issues/27)
+
 ## Rollup
 
 [核心功能配置](https://github.com/laoyutong/blog/issues/24)
