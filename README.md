@@ -46,3 +46,7 @@ A vegetable dog FEer 's blog
 ## Pnpm
 
 [pnpm workspace](https://github.com/laoyutong/blog/issues/25)
+
+## css
+
+[伪元素](https://github.com/laoyutong/blog/issues/28)
