@@ -37,6 +37,8 @@ A vegetable dog FEer 's blog
 
 [配置git commit格式校验](https://github.com/laoyutong/blog/issues/20)
 
+[vscode实用snippet](https://github.com/laoyutong/blog/issues/32)
+
 ## Vite
 
 [Vite实战小结](https://github.com/laoyutong/blog/issues/23)
