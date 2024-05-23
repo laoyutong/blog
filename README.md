@@ -8,7 +8,7 @@ A vegetable dog FEer 's blog
 ## React
 [从自定义Hooks中深入理解useRef](https://github.com/laoyutong/blog/issues/1)
 
-[React vs Mobx?原理浅析](https://github.com/laoyutong/blog/issues/4)
+[Redux vs Mobx?原理浅析](https://github.com/laoyutong/blog/issues/4)
 
 [React Router v6 浅析](https://github.com/laoyutong/blog/issues/17)
 
