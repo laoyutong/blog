@@ -18,6 +18,8 @@ A vegetable dog FEer 's blog
 
 [use-context-selector](https://github.com/laoyutong/blog/issues/31)
 
+[Jotai：原始、灵活的React状态管理](https://github.com/laoyutong/blog/issues/33)
+
 ## TypeScript
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
 
