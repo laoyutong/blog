@@ -60,3 +60,4 @@ A vegetable dog FEer 's blog
 ## css
 
 [伪元素](https://github.com/laoyutong/blog/issues/28)
+[浅入浅出tailwindcss](https://github.com/laoyutong/blog/issues/34)
