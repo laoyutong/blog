@@ -20,6 +20,8 @@ A vegetable dog FEer 's blog
 
 [Jotai：原始、灵活的React状态管理](https://github.com/laoyutong/blog/issues/33)
 
+[How to reduce re-render](https://github.com/laoyutong/blog/issues/35)
+
 ## TypeScript
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
 
