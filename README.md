@@ -35,6 +35,8 @@ A vegetable dog FEer 's blog
 
 [Object、object and {}](https://github.com/laoyutong/blog/issues/30)
 
+[TypeScript 4.7-4.9特性浅析](https://github.com/laoyutong/blog/issues/36)
+
 ## Tool
 
 [github actions配置静态页面部署](https://github.com/laoyutong/blog/issues/16)
