@@ -1,9 +1,15 @@
 # blog
 A vegetable dog FEer 's blog
 
-## JavaScript
+## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
+
+[伪元素](https://github.com/laoyutong/blog/issues/28)
+
+[浅入浅出tailwindcss](https://github.com/laoyutong/blog/issues/34)
+
+[浏览器渲染流程](https://github.com/laoyutong/blog/issues/42)
 
 ## React
 
@@ -46,7 +52,7 @@ A vegetable dog FEer 's blog
 
 [TypeScript 4.7-4.9特性浅析](https://github.com/laoyutong/blog/issues/36)
 
-## Tool
+## 工具链
 
 [github actions配置静态页面部署](https://github.com/laoyutong/blog/issues/16)
 
@@ -54,27 +60,15 @@ A vegetable dog FEer 's blog
 
 [vscode实用snippet](https://github.com/laoyutong/blog/issues/32)
 
-## Vite
-
 [Vite实战小结](https://github.com/laoyutong/blog/issues/23)
 
 [拆包策略](https://github.com/laoyutong/blog/issues/27)
-
-## Rollup
 
 [核心功能配置](https://github.com/laoyutong/blog/issues/24)
 
 [插件浅析](https://github.com/laoyutong/blog/issues/26)
 
-## Pnpm
-
 [pnpm workspace](https://github.com/laoyutong/blog/issues/25)
-
-## css
-
-[伪元素](https://github.com/laoyutong/blog/issues/28)
-
-[浅入浅出tailwindcss](https://github.com/laoyutong/blog/issues/34)
 
 ## 杂谈
 [社招面经汇总 for three years](https://github.com/laoyutong/blog/issues/37)
