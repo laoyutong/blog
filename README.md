@@ -11,6 +11,8 @@ A vegetable dog FEer 's blog
 
 [浏览器渲染流程](https://github.com/laoyutong/blog/issues/42)
 
+[垃圾回收机制](https://github.com/laoyutong/blog/issues/43)
+
 ## React
 
 [mini-react](https://github.com/laoyutong/blog/issues/38)
