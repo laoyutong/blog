@@ -29,6 +29,8 @@ A vegetable dog FEer 's blog
 
 [React闭包浅析](https://github.com/laoyutong/blog/issues/40)
 
+[React Diff](https://github.com/laoyutong/blog/issues/41)
+
 ## TypeScript
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
 
