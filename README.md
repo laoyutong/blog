@@ -25,6 +25,8 @@ A vegetable dog FEer 's blog
 
 [How to reduce re-render](https://github.com/laoyutong/blog/issues/35)
 
+[React更新流程](https://github.com/laoyutong/blog/issues/39)
+
 ## TypeScript
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
 
