@@ -27,6 +27,8 @@ A vegetable dog FEer 's blog
 
 [React更新流程](https://github.com/laoyutong/blog/issues/39)
 
+[React闭包浅析](https://github.com/laoyutong/blog/issues/40)
+
 ## TypeScript
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
 
