@@ -72,5 +72,7 @@ A vegetable dog FEer 's blog
 
 [pnpm workspace](https://github.com/laoyutong/blog/issues/25)
 
+[arm系统的nvm支持node低版本安装](https://github.com/laoyutong/blog/issues/44)
+
 ## 杂谈
 [社招面经汇总 for three years](https://github.com/laoyutong/blog/issues/37)
