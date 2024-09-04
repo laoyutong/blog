@@ -74,5 +74,7 @@ A vegetable dog FEer 's blog
 
 [arm系统的nvm支持node低版本安装](https://github.com/laoyutong/blog/issues/44)
 
+[nvm自动切换node版本](https://github.com/laoyutong/blog/issues/45)
+
 ## 杂谈
 [社招面经汇总 for three years](https://github.com/laoyutong/blog/issues/37)
