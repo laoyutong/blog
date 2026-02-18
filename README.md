@@ -7,13 +7,15 @@ A vegetable dog FEer 's blog
 
 [伪元素](https://github.com/laoyutong/blog/issues/28)
 
-[浅入浅出tailwindcss](https://github.com/laoyutong/blog/issues/34)
+[浅入浅出Tailwindcss](https://github.com/laoyutong/blog/issues/34)
 
 [浏览器渲染流程](https://github.com/laoyutong/blog/issues/42)
 
 [垃圾回收机制](https://github.com/laoyutong/blog/issues/43)
 
 ## React
+
+[React闭包浅析](https://github.com/laoyutong/blog/issues/40)
 
 [mini-react](https://github.com/laoyutong/blog/issues/38)
 
@@ -35,11 +37,10 @@ A vegetable dog FEer 's blog
 
 [React更新流程](https://github.com/laoyutong/blog/issues/39)
 
-[React闭包浅析](https://github.com/laoyutong/blog/issues/40)
-
 [React Diff](https://github.com/laoyutong/blog/issues/41)
 
 ## TypeScript
+
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
 
 [TypeScript中回调函数的参数类型](https://github.com/laoyutong/blog/issues/3)
@@ -62,13 +63,13 @@ A vegetable dog FEer 's blog
 
 [vscode实用snippet](https://github.com/laoyutong/blog/issues/32)
 
-[Vite实战小结](https://github.com/laoyutong/blog/issues/23)
+[vite实战小结](https://github.com/laoyutong/blog/issues/23)
 
-[拆包策略](https://github.com/laoyutong/blog/issues/27)
+[vite拆包策略](https://github.com/laoyutong/blog/issues/27)
 
-[核心功能配置](https://github.com/laoyutong/blog/issues/24)
+[rollup核心功能配置](https://github.com/laoyutong/blog/issues/24)
 
-[插件浅析](https://github.com/laoyutong/blog/issues/26)
+[rollup插件浅析](https://github.com/laoyutong/blog/issues/26)
 
 [pnpm workspace](https://github.com/laoyutong/blog/issues/25)
 
