@@ -13,7 +13,7 @@ A vegetable dog FEer 's blog
 
 [垃圾回收机制](https://github.com/laoyutong/blog/issues/43)
 
-[http缓存](https://github.com/laoyutong/blog/issues/46)
+[http](https://github.com/laoyutong/blog/issues/46)
 
 [异步并发控制](https://github.com/laoyutong/blog/issues/47)
 
