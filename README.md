@@ -15,6 +15,8 @@ A vegetable dog FEer 's blog
 
 [http缓存](https://github.com/laoyutong/blog/issues/46)
 
+[异步并发控制](https://github.com/laoyutong/blog/issues/47)
+
 ## React
 
 [React闭包浅析](https://github.com/laoyutong/blog/issues/40)
