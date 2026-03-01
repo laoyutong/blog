@@ -43,6 +43,8 @@ A vegetable dog FEer 's blog
 
 [React Diff](https://github.com/laoyutong/blog/issues/41)
 
+[React合成事件](https://github.com/laoyutong/blog/issues/48)
+
 ## TypeScript
 
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
