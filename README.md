@@ -17,6 +17,8 @@ A vegetable dog FEer 's blog
 
 [异步并发控制](https://github.com/laoyutong/blog/issues/47)
 
+[模拟实现](https://github.com/laoyutong/blog/issues/50)
+
 ## React
 
 [React闭包浅析](https://github.com/laoyutong/blog/issues/40)
