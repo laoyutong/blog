@@ -15,7 +15,7 @@ A vegetable dog FEer 's blog
 
 [http](https://github.com/laoyutong/blog/issues/46)
 
-[异步并发控制](https://github.com/laoyutong/blog/issues/47)
+[常用手写](https://github.com/laoyutong/blog/issues/47)
 
 [模拟实现](https://github.com/laoyutong/blog/issues/50)
 
