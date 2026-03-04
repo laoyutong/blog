@@ -51,6 +51,8 @@ A vegetable dog FEer 's blog
 
 [React合成事件](https://github.com/laoyutong/blog/issues/48)
 
+[React Fiber](https://github.com/laoyutong/blog/issues/53)
+
 ## TypeScript
 
 [TS项目配置alias](https://github.com/laoyutong/blog/issues/2)
