@@ -15,6 +15,8 @@ A vegetable dog FEer 's blog
 
 [http](https://github.com/laoyutong/blog/issues/46)
 
+[事件循环](https://github.com/laoyutong/blog/issues/52)
+
 [常用手写](https://github.com/laoyutong/blog/issues/47)
 
 [模拟实现](https://github.com/laoyutong/blog/issues/50)
