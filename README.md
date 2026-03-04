@@ -19,6 +19,8 @@ A vegetable dog FEer 's blog
 
 [模拟实现](https://github.com/laoyutong/blog/issues/50)
 
+[算法小解](https://github.com/laoyutong/blog/issues/51)
+
 ## React
 
 [React闭包浅析](https://github.com/laoyutong/blog/issues/40)
