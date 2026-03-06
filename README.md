@@ -93,5 +93,7 @@ A vegetable dog FEer 's blog
 
 [Webpack](https://github.com/laoyutong/blog/issues/49)
 
+[小程序](https://github.com/laoyutong/blog/issues/54)
+
 ## 杂谈
 [社招面经汇总 for three years](https://github.com/laoyutong/blog/issues/37)
