@@ -1,5 +1,4 @@
 # blog
-A vegetable dog FEer 's blog
 
 ## 基础
 
@@ -16,6 +15,8 @@ A vegetable dog FEer 's blog
 [http](https://github.com/laoyutong/blog/issues/46)
 
 [事件循环](https://github.com/laoyutong/blog/issues/52)
+
+[移动端适配](https://github.com/laoyutong/blog/issues/55)
 
 [常用手写](https://github.com/laoyutong/blog/issues/47)
 
