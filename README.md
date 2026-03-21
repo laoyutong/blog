@@ -1,5 +1,9 @@
 # blog
 
+## AI
+
+[基础应用](https://github.com/laoyutong/blog/issues/58)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
