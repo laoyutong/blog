@@ -2,6 +2,8 @@
 
 ## AI
 
+[基础概念](https://github.com/laoyutong/blog/issues/59)
+
 [基础应用](https://github.com/laoyutong/blog/issues/58)
 
 ## 基础
