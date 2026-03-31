@@ -2,9 +2,9 @@
 
 ## AI
 
-[基础概念](https://github.com/laoyutong/blog/issues/59)
-
 [基础应用](https://github.com/laoyutong/blog/issues/58)
+
+[上下文记忆](https://github.com/laoyutong/blog/issues/59)
 
 [MCP](https://github.com/laoyutong/blog/issues/60)
 
