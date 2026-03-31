@@ -8,6 +8,8 @@
 
 [MCP](https://github.com/laoyutong/blog/issues/60)
 
+[OpenClaw](https://github.com/laoyutong/blog/issues/61)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
