@@ -10,7 +10,7 @@
 
 [OpenClaw](https://github.com/laoyutong/blog/issues/61)
 
-[Claude Code](https://github.com/laoyutong/blog/issues/62)
+[Claude Code 设计哲学](https://github.com/laoyutong/blog/issues/62)
 
 ## 基础
 
