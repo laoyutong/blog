@@ -10,6 +10,8 @@
 
 [OpenClaw](https://github.com/laoyutong/blog/issues/61)
 
+[Claude Code](https://github.com/laoyutong/blog/issues/62)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
