@@ -12,6 +12,8 @@
 
 [Claude Code 设计哲学](https://github.com/laoyutong/blog/issues/62)
 
+[Claude Code 性能优化](https://github.com/laoyutong/blog/issues/64)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
