@@ -4,6 +4,8 @@
 
 [基础应用](https://github.com/laoyutong/blog/issues/58)
 
+[大模型底层机制](https://github.com/laoyutong/blog/issues/65)
+
 [上下文记忆](https://github.com/laoyutong/blog/issues/59)
 
 [MCP](https://github.com/laoyutong/blog/issues/60)
