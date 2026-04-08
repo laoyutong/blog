@@ -14,6 +14,8 @@
 
 [Claude Code 设计哲学](https://github.com/laoyutong/blog/issues/62)
 
+[Claude Code Skill](https://github.com/laoyutong/blog/issues/66)
+
 [Claude Code 性能优化](https://github.com/laoyutong/blog/issues/64)
 
 ## 基础
