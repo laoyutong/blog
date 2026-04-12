@@ -18,6 +18,10 @@
 
 [Claude Code 性能优化](https://github.com/laoyutong/blog/issues/64)
 
+[Agent Loop 流式响应](https://github.com/laoyutong/blog/issues/67)
+
+[Agent Loop 生产容错](https://github.com/laoyutong/blog/issues/68)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
