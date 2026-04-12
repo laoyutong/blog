@@ -22,6 +22,8 @@
 
 [Agent Loop 生产容错](https://github.com/laoyutong/blog/issues/68)
 
+[Agent Loop 保险方式](https://github.com/laoyutong/blog/issues/69)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
