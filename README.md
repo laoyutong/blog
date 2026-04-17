@@ -24,6 +24,8 @@
 
 [Agent Loop 保险方式](https://github.com/laoyutong/blog/issues/69)
 
+[Tool System Function Calling&Structured Output](https://github.com/laoyutong/blog/issues/70)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
