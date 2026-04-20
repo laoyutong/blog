@@ -26,6 +26,8 @@
 
 [Tool System Function Calling&Structured Output](https://github.com/laoyutong/blog/issues/70)
 
+[Tool System 工具调用流程](\https://github.com/laoyutong/blog/issues/71)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
