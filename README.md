@@ -28,6 +28,8 @@
 
 [Tool System 工具调用流程](https://github.com/laoyutong/blog/issues/71)
 
+[Tool System 多工具处理](https://github.com/laoyutong/blog/issues/72)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
