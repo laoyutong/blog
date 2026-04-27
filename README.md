@@ -30,6 +30,10 @@
 
 [Tool System 多工具处理](https://github.com/laoyutong/blog/issues/72)
 
+[Tool System MCP工程](https://github.com/laoyutong/blog/issues/73)
+
+[Tool System Skills](https://github.com/laoyutong/blog/issues/74)
+
 ## 基础
 
 [浅析Promise实现](https://github.com/laoyutong/blog/issues/15)
